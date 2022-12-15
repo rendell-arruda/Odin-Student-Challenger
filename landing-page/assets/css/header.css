@@ -6,7 +6,7 @@ header {
 .menu {
   box-sizing: border-box;
   height: 70px;
-  padding: 1rem;
+  /* padding: 1rem; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -16,7 +16,7 @@ header {
 
 .menu-title {
   font-size: 1.5rem;
-  padding: 0.5rem;
+  box-sizing: border-box;
 }
 .menu-links {
   display: flex;
