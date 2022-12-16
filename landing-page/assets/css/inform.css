@@ -7,3 +7,30 @@
   flex-direction: column;
   gap: 50px;
 }
+
+.inform-cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* display: flex;
+  gap: 20px;
+  flex-wrap: wrap; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+.inform-card {
+  width: 200px;
+  height: 300px;
+  padding: 10px 0;
+}
+
+.inform-card img {
+  height: 90%;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 5px solid var(--buttonColor);
+}
+
+.inform-card p {
+  padding: 10px 0;
+}
