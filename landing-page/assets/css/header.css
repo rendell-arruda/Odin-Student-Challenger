@@ -32,3 +32,6 @@ header {
 .menu-link a {
   padding: 0.5rem;
 }
+
+@media (max-width: 500px) {
+}

@@ -45,3 +45,15 @@
 
 .img-intro img {
 }
+
+@media (max-width: 500px) {
+  .title {
+    font-size: 1.5rem;
+  }
+  .secundaryText {
+    font-size: 0.75rem;
+  }
+  .btn {
+    padding: 5px 20px;
+  }
+}
