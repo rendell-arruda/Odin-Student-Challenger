@@ -2,9 +2,6 @@
   background-color: var(--bgLight);
 }
 
-.inform-conteudo {
-}
-
 .inform-cards {
   display: flex;
   flex-wrap: wrap;
@@ -24,8 +21,6 @@
 }
 
 .inform-card p {
-  /* height: 30%; */
-
   padding: 10px 0;
 }
 
