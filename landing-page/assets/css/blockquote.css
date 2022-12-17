@@ -1,0 +1,22 @@
+.blockquote-bg {
+  background-color: var(--heroSecondaryText);
+}
+
+.blockquote container {
+  padding: 0 300px;
+}
+
+.blockquote-conteudo {
+  padding: 0 60px;
+}
+.blockquote-desc {
+  font-size: 1.5rem;
+  font-weight: 100;
+  font-style: italic;
+  color: var(--informationHeaderText);
+}
+
+.blockquote-autor {
+  font-size: 0.875rem;
+  text-align: right;
+}
