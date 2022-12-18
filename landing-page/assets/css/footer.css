@@ -1,0 +1,9 @@
+.footer-bg {
+  background-color: var(--darkBgColor);
+}
+
+.footer-p {
+  margin: 0 auto;
+  color: var(--heroSecondaryText);
+  font-size: 0.875rem;
+}
