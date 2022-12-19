@@ -1,27 +1,8 @@
 .linksImportantes-bg {
-  background-color: var(--bgLight);
-}
-.linksImportantes-links {
-  /* background-color: var(--buttonColor); */
-  border-radius: 10px;
-  color: var(--heroSecondaryText);
 }
 
-.linksImportantes-links .subtitle {
-  /* color: var(--heroMainText); */
-}
-
-.linksImportantes-links-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  transition: 0.3s;
-}
-
-.linksImportantes-links-list a {
-  display: inline-block;
-}
-
-.linksImportantes-links-list a:hover {
-  color: var(--darkBgColor);
+.container-slider {
+  padding: 20px 0;
+  margin: 0 auto;
+  max-width: 540px;
 }
