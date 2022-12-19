@@ -30,16 +30,16 @@ html {
   margin: 0 auto;
 }
 
-.container {
+/* .container {
   max-width: 1024px;
   margin: 0 auto;
   padding: 3rem 1rem;
   display: grid;
-}
+} */
 
 .subtitle {
   font-size: 36px;
   color: var(--informationHeaderText);
   font-weight: 700;
-  padding-bottom: 30px;
+  padding: 20px;
 }
