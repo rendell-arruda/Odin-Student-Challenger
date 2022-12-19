@@ -3,10 +3,10 @@
 }
 
 .intro {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   display: flex;
-  gap: 40px;
+  /* gap: 40px; */
   justify-content: space-between;
   align-items: center;
 }
