@@ -2,14 +2,13 @@
   background-color: var(--bgLight);
 }
 .linksImportantes-links {
-  background-color: var(--buttonColor);
-  padding: 20px;
+  /* background-color: var(--buttonColor); */
   border-radius: 10px;
   color: var(--heroSecondaryText);
 }
 
 .linksImportantes-links .subtitle {
-  color: var(--heroMainText);
+  /* color: var(--heroMainText); */
 }
 
 .linksImportantes-links-list {

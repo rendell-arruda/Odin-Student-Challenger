@@ -2,6 +2,10 @@
   background-color: var(--heroSecondaryText);
 }
 
+.blockquote-conteudo {
+  padding: 40px 20px;
+}
+/*
 .blockquote container {
   padding: 0 300px;
 }
@@ -14,10 +18,10 @@
   font-weight: 100;
   font-style: italic;
   color: var(--informationHeaderText);
-}
+} */
 
-.blockquote-autor {
+/* .blockquote-autor {
   margin-top: 20px;
   font-size: 0.875rem;
   text-align: right;
-}
+} */
