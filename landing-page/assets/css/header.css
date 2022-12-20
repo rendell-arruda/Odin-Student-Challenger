@@ -3,38 +3,5 @@ header {
   color: var(--heroSecondaryText);
 }
 
-/*.menu-container {
-   margin: 0 auto; }
-
-   .menu {
- max-width: 1024px;
-  margin: 0 auto; 
-   padding: 0 1rem; 
-   box-sizing: border-box; *
-  height: 70px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-size: 1.125rem;
-  flex-wrap: wrap;
-} */
-/* .menu-logo {
-  font-size: 1.5rem;
-  box-sizing: border-box;
-  font-size: 700;
-  color: var(--heroMainText);
-} */
-
-/* .menu-links {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  flex-wrap: wrap;
-} */
-
-/* .menu-link a {
-  padding: 0.5rem;
-}
-
 @media (max-width: 500px) {
-} */
+}

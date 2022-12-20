@@ -1,8 +1,13 @@
-.linksImportantes-bg {
-}
-
 .container-slider {
   padding: 20px 0;
   margin: 0 auto;
   max-width: 540px;
+}
+@media (max-width: 500px) {
+  .blockquote p {
+    font-size: 14px;
+  }
+  .blockquote-footer {
+    font-size: 10px;
+  }
 }
